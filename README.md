@@ -13,3 +13,9 @@ Run as normal python program (python app.py)
 
 - Dash Bootstrap Components
 `pip install dash-bootstrap-components`
+
+
+- Pandas
+`pip install pandas`
+
+**Install others if needed or used**
