@@ -6,6 +6,8 @@ Run as normal python program (python app.py)
 
 
 # Required Libraries
+- World Bank Data Api
+`pip install world-bank-data`
 
 - Dash
 `pip install dash`
